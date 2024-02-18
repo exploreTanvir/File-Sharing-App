@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import Ui from './components/ui/Ui';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Ui/>
+    </div>
   )
 }
 
